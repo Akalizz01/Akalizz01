@@ -22,8 +22,8 @@ Currently studying **Programming and Development of Computer Systems** and build
 
 # 📫 Contact
 
-GitHub: [https://github.com/](https://github.com/Akalizz01)
-Email: tmsantos20002@gmail.com
+- GitHub: [https://github.com/Akalizz01](https://github.com/Akalizz01)
+- Email: tmsantos20002@gmail.com
 
 ---
 
